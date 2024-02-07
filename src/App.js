@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Waazup MultiVerse!!!
+          Waazupppppp MultiVerse!!!
         </a>
       </header>
     </div>
